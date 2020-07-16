@@ -31,8 +31,9 @@ hr {
 /*Container*/
 .container {
     width: 100%;
-    max-width: 1200px;
+    max-width: 1230px;
     margin: 0 auto;
+    padding: 0 15px;
 }
 
 
@@ -594,7 +595,7 @@ hr {
 }
 
 
-}
+
 .reviews__text {
     margin-bottom: 15px;
 
@@ -1134,12 +1135,6 @@ hr {
 
 
 
-/*Media*/
-
-@media(max-width: 1200px){
-
-
-}
 
 
 
